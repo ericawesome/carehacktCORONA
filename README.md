@@ -1,10 +1,10 @@
 # #carehacktCORONA
 
-## THE PROBLEM (for the German Red Cross - Deutsches Rotes Kreuz)
+### THE PROBLEM (for the German Red Cross - Deutsches Rotes Kreuz)
 
 In times of crisis, the task force of the DRK BaWü processes and prepares incident reports from up to 34 district associations. This is currently done manually. Each district unit sends a daily incident report on the number of personnel and material and its current activities in the fight against Corona. These incident reports are evaluated message by message by the operational staff of the task force and then transferred to an Excel spreadsheet to be up-to-date. On this basis, graphics with high operational value are then created. The information is essential for ensuring that the task force works efficiently, as it is the basis for decision-making and promotes transparency and communication within the organization. The constantly increasing complexity of this data poses increasing challenges for the task force in terms of evaluation.
 
-## THE SOLUTION 
+### THE SOLUTION 
 
 The main benefits of the solution:
 
