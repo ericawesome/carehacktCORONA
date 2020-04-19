@@ -26,3 +26,13 @@ For **stage 2**, a web-based visualisation technology (Tableau Public) is used t
 
 **Stage 3** as a cloud-based ERP system is a rather medium-term holistic solution. The input behavior of the district associations and therefore the process workflow has to be adapted. A cloud-based database will be used instead of the Excel file. As a replacement for the previous pdf form, the user (district associations) enters the incident reports of his district via a web interface (frontend). The new information is stored as new data directly in the database. The BI tool tableau linked to the database processes the data and provides the information and visualisations in real time to a Web address. The graphic representation on the web address gives a clear picture of the current situation in terms of personnel, material and activities from the federal and state level down to the details of the district associations. 
 
+--
+
+### Stakeholder and project contributors
+Nabila Munz   (Sponsor of the problem representing the German Red Cross)
+Kevin Kampa   (Stage 1: Automation - Data extraction of pdf)
+Hoai-Anh Ngo  (Stage 1: Automation - Data integration to excel spreadsheet)
+Isabel Zani   (Stage 2: Visualisation - Tableau to excel and database)
+Michael Hagen
+Masood Ahmed 
+Svetoslava Hristova
