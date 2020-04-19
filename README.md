@@ -20,7 +20,7 @@ The solution designed and developed includes **three modular stages**:
 
 In **stage 1**, data from the incident reports sent daily by each district by e-mail to the Task Force of the DRC BaWü are automatically read (via the software robot Blue Prism) and integrated into a central Excel document. The provision of the information by the end user (district associations) remains unaffected, but the workload of the task force and administrators is significantly reduced as the data processing is executed automatically by the software robot.
 
-For **stage 2**, a web-based visualisation technology (Tableau Public) is used to make the reactive graphical evaluation within the Excel sheet more efficient. The visualisation provides the current status graphically and is available to all relevant user of the DRK-organisation in real time via a web address: https://public.tableau.com/profile/nils7887#!/vizhome/DRK_Hackaton_15872983224980/AktuellCOVID19Einsatzabschnitte?publish=yes
+For **stage 2**, a web-based visualisation technology (Tableau Public) is used to make the reactive graphical evaluation within the Excel sheet more efficient. The visualisation provides the current status graphically and is available to all relevant user of the DRK-organisation in real time via a web address. A first representation is available under the public version, visit https://public.tableau.com/profile/nils7887#!/vizhome/DRK_Hackaton_15872983224980/AktuellCOVID19Einsatzabschnitte?publish=yes
 
 ![image](https://user-images.githubusercontent.com/48921737/79688013-6eb90a00-824b-11ea-9ddd-8c7c9f29112b.png) 
 
