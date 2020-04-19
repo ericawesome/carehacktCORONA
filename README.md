@@ -22,4 +22,7 @@ In **stage 1**, data from the incident reports sent daily by each district by e-
 
 For **stage 2**, a web-based visualisation technology (Tableau Public) is used to make the reactive graphical evaluation within the Excel sheet more efficient. The visualisation provides the current status graphically and is available to all relevant user of the DRK-organisation in real time via a web address: https://public.tableau.com/profile/nils7887#!/vizhome/DRK_Hackaton_15872983224980/AktuellCOVID19Einsatzabschnitte?publish=yes
 
+![image](https://user-images.githubusercontent.com/48921737/79688013-6eb90a00-824b-11ea-9ddd-8c7c9f29112b.png) 
+
 **Stage 3** as a cloud-based ERP system is a rather medium-term holistic solution. The input behavior of the district associations and therefore the process workflow has to be adapted. A cloud-based database will be used instead of the Excel file. As a replacement for the previous pdf form, the user (district associations) enters the incident reports of his district via a web interface (frontend). The new information is stored as new data directly in the database. The BI tool tableau linked to the database processes the data and provides the information and visualisations in real time to a Web address. The graphic representation on the web address gives a clear picture of the current situation in terms of personnel, material and activities from the federal and state level down to the details of the district associations. 
+
