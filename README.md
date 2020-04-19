@@ -8,17 +8,18 @@ In times of crisis, the task force of the DRK BaWü processes and prepares incid
 
 The main benefits of the solution:
 
-- [x] **automation** of previous manual activities, including the visualisation of the results.
-- [x] **instant implementation** of stages 1 and 2 possible, as they fit seamlessly into the existing process. 
-- [x] **scalable approach** can be applied to almost all processes involving structured, repetitive and time-consuming tasks.
-- [x] **purchase costs** are low and the monthly operating costs are relatively easy to estimate.
-- [x] **state-of-the-art technologies** used like Tableau, Blue Prism software robots, cloud-based solution 
+- [x] **automation** of previous manual activities, including the visualisation of the results
+- [x] **instant implementation** of stages 1 and 2 possible, as they fit seamlessly into the existing process 
+- [x] **scalable approach** can be applied to almost all processes involving structured, repetitive and time-consuming tasks
+- [x] **purchase costs** are low and the monthly operating costs are relatively easy to estimate
+- [x] **state-of-the-art technologies** used like Tableau, Blue Prism software robots, cloud data storage
+
 
 
 The solution designed and developed includes **three modular stages**: 
 
 In **stage 1**, data from the incident reports sent daily by each district by e-mail to the Task Force of the DRC BaWü are automatically read (via the software robot Blue Prism) and integrated into a central Excel document. The provision of the information by the end user (district associations) remains unaffected, but the workload of the task force and administrators is significantly reduced as the data processing is executed automatically by the software robot.
 
-For **stage 2**, a web-based visualisation technology (Tableau Public) is used to make the reactive graphical evaluation within the Excel sheet more efficient. The visualisation provides the current status graphically and is available to all relevant user of the DRK-organisation in real time via a web address. 
+For **stage 2**, a web-based visualisation technology (Tableau Public) is used to make the reactive graphical evaluation within the Excel sheet more efficient. The visualisation provides the current status graphically and is available to all relevant user of the DRK-organisation in real time via a web address: https://public.tableau.com/profile/nils7887#!/vizhome/DRK_Hackaton_15872983224980/AktuellCOVID19Einsatzabschnitte?publish=yes
 
-**Stage 3** as a cloud-based ERP system is a rather medium-term holistic solution. The input behavior of the district associations and therefore the process workflow has to be adapted. A cloud-based database will be used instead of the Excel file. The user (district associations) submits the incident reports of their district via a web interface (front-end) directly to the database. The BI tool tableau linked to the database processes the data and provides the information and visualisations in real time to a Web address. The graphic representation on the web address gives a clear picture of the current situation in terms of personnel, material and activities from the federal and state level down to the details of the district associations. 
+**Stage 3** as a cloud-based ERP system is a rather medium-term holistic solution. The input behavior of the district associations and therefore the process workflow has to be adapted. A cloud-based database will be used instead of the Excel file. As a replacement for the previous pdf form, the user (district associations) enters the incident reports of his district via a web interface (frontend). The new information is stored as new data directly in the database. The BI tool tableau linked to the database processes the data and provides the information and visualisations in real time to a Web address. The graphic representation on the web address gives a clear picture of the current situation in terms of personnel, material and activities from the federal and state level down to the details of the district associations. 
