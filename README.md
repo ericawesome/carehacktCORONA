@@ -29,10 +29,11 @@ For **stage 2**, a web-based visualisation technology (Tableau Public) is used t
 --
 
 ### Stakeholder and project contributors
-Nabila Munz   (Sponsor of the problem representing the German Red Cross)
-Kevin Kampa   (Stage 1: Automation - Data extraction of pdf)
-Hoai-Anh Ngo  (Stage 1: Automation - Data integration to excel spreadsheet)
-Isabel Zani   (Stage 2: Visualisation - Tableau to excel and database)
-Michael Hagen
-Masood Ahmed 
-Svetoslava Hristova
+
+- Nabila Munz   (Sponsor of the problem representing the German Red Cross)
+- Kevin Kampa   (Stage 1: Automation - Data extraction of pdf)
+- Hoai-Anh Ngo  (Stage 1: Automation - Data integration to excel spreadsheet)
+- Isabel Zani   (Stage 2: Visualisation - Tableau to excel and database)
+- Michael Hagen
+- Masood Ahmed 
+- Svetoslava Hristova
